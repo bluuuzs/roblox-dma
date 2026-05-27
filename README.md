@@ -13,7 +13,7 @@
 
  ⭐ Features
 
-- Aimbot (Draw FOV, FOV Radius, FOV Colour, FOV Outline Colour, Aimbot Keybind, Activation Mode, Target Bone, Sticky Aim, Smoothing X & Y, Smoothing Style)
+- Aimbot (Draw FOV, FOV Radius, FOV Colour, FOV Outline Colour, Aimbot Keybind, Activation Mode, Target Bone, Smoothing X & Y, Smoothing Style)
 - Box ESP (Colour Customization Available)
 - Skeleton ESP (Colour Customization Available)
 - Name ESP (Colour Customization Available)
