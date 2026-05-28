@@ -18,7 +18,7 @@
 - Skeleton ESP (Colour Customization Available)
 - Name ESP (Colour Customization Available)
 - Distance ESP (Colour Customization Available)
-- Health Bar ESP (Colour Customization Available)
+- Health Bar ESP
 - Snaplines (Colour Customization Available, Snaplines Location, Snaplines Destination, Snaplines Style, Snaplines Thickness, Snaplines Outline)
 - Walkspeed Customization (Memory Write, use at your own risk)
 - JumpPower Customization (Memory Write, use at your own risk)
