@@ -19,7 +19,7 @@
 - Name ESP (Colour Customization Available)
 - Distance ESP (Colour Customization Available)
 - Health Bar ESP
-- Head Dot ESP
+- Head Dot ESP (Colour Customization Available)
 - Snaplines (Colour Customization Available, Snaplines Location, Snaplines Destination, Snaplines Style, Snaplines Thickness, Snaplines Outline)
 - Walkspeed Changer (Memory Write, use at your own risk)
 - JumpPower Changer (Memory Write, use at your own risk)
