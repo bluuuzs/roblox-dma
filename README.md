@@ -36,7 +36,7 @@
 ### How to use Custom ESP Font Changer
 
 - To use a Custom ESP Font, find the Font you want to use and download it as a TTF file
-- Once you have downloaded it, create a folder called "fonts", put the TTF file you downloaded in that folder
+- Once you have downloaded it, create a folder called "fonts", and put the TTF file you downloaded in that folder
 - Once it is in the folder, restart your cheat or open it if you haven't already
 - Go to the Misc tab, find the "ESP Font" dropdown, click on it and select the Font you added (it will appear as the same name as the TTF file)
 
